@@ -1,30 +1,22 @@
-# Streamline Landing Page
+🧭 Minimalist Landing Page
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+A simple, responsive landing page template built with clarity and flexibility in mind.
+Easy to customize, and suitable for personal sites, portfolios, or quick project launches.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/leos-projects-ef3d53ca/v0-streamline-landing-page)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/j6xi8B4MhwJ)
+✨ 
 
-## Overview
+    Minimalist design
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+    Fully responsive layout
 
-## Deployment
+    Clean structure for easy editing
 
-Your project is live at:
+    No dependencies or backend—just straightforward front-end code
 
-**[https://vercel.com/leos-projects-ef3d53ca/v0-streamline-landing-page](https://vercel.com/leos-projects-ef3d53ca/v0-streamline-landing-page)**
+🛠️ 
 
-## Build your app
+    Clone or fork this repository
 
-Continue building your app on:
+    Replace the content with your own text, links, and branding
 
-**[https://v0.dev/chat/projects/j6xi8B4MhwJ](https://v0.dev/chat/projects/j6xi8B4MhwJ)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+    Deploy it wherever you like
